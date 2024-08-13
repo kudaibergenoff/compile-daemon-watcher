@@ -1,1 +1,1 @@
-# compile-daemon-watcher
+# Simple compile-daemon-watcher
